@@ -2,6 +2,10 @@
 
 이 저장소는 **설치 파일 배포 전용**입니다. 소스 코드는 포함하지 않습니다.
 
-최신 Windows 설치 파일은 [Releases](https://github.com/mrleecheon/ojip-downloads/releases)에서 받으세요.
+## 내려받기
 
-SmartScreen 경고가 뜨면 **추가 정보 → 실행**을 눌러 주세요.
+**https://mrleecheon.github.io/ojip-downloads/**
+
+설치 방법과 브라우저 차단 해제 안내가 함께 있습니다.
+
+파일만 직접 받으려면 [Releases](https://github.com/mrleecheon/ojip-downloads/releases)를 이용하세요.
